@@ -1,9 +1,8 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-const path = require('path');
 
 
-const readme_file = `README.md`;
+const readme_file = `README_NEW.md`;
 const mdStyle = require('./mdstyle.js');
 
 
@@ -59,6 +58,6 @@ inquirer
     fs.writeFile(mdGenerator, mdStyle(data), (err) =>
       err
         ? console.log(err)
-        : console.log(`Your ${readme_file} has been generated at ${mdGenerator}`)
+        : console.log(`Yay! Your ${readme_file} is created :-)! `)
     );
   });
