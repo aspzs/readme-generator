@@ -25,9 +25,9 @@ This project is a README.md generator that gonna ask you some questions about th
 ###      ->  
             Need to clone this project, inside your folder open your terminal and run -> node index.js <- automatically will be display the first  question that is - Project Name? and when you finish responding the questions  press enter for the next question and so on. At the final of the project you need to watch a message displayed on your terminal "Yay! Your README_NEW.md is created :-)!"  and  you can find the file in your main folder. 
 
-            ![node index.js]( https://github.com/aspzs/readme-generator/blob/main/images/1.png?raw=true )
-            ![Answer the questions]( https://github.com/aspzs/readme-generator/blob/main/images/2.png?raw=true )
-            ![Your file is created inside the folder]( https://github.com/aspzs/readme-generator/blob/main/images/3.png?raw=true )
+![node index.js](images/1.png)
+![Answer the questions](images/2.png)
+![Your file is created inside the folder](images/3.png)
       
 # 🚀 Features:
 --------------
