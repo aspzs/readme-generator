@@ -28,6 +28,8 @@ This project is a README.md generator that gonna ask you some questions about th
 ![node index.js](images/1.png)
 ![Answer the questions](images/2.png)
 ![Your file is created inside the folder](images/3.png)
+
+Video: https://drive.google.com/file/d/1D16OiF-07yT91LCB8Yrwtwu6ZaSFX2nk/view
       
 # 🚀 Features:
 --------------
