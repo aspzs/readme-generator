@@ -7,6 +7,8 @@ function mdstyle(data){
                 __${data.author}__
 ## ℹ️ -> Contact: 
                   ${data.contact}
+## 🎒 -> GitHub: 
+                  ${data.github}
                   
                   
 # Table of contents
