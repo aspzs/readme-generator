@@ -6,6 +6,8 @@
                 __Arnol Segovia__
 ## ℹ️ -> Contact: 
                   25sparnol@gmail.com
+## 🎒 -> GitHub: 
+                  https://github.com/aspzs                  
                   
 # Table of contents
 1. [Description](#description)
