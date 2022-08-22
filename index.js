@@ -46,6 +46,10 @@ inquirer
         type: 'input',
         message: 'Want to add Credits?',
         name: 'Credits',
+    },{
+        type: 'input',
+        message: 'What\'s your GitHub link?',
+        name: 'github',
     }
    ])
 
